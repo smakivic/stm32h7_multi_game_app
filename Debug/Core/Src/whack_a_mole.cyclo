@@ -1,0 +1,10 @@
+../Core/Src/whack_a_mole.c:32:6:start_whack_a_mole	1
+../Core/Src/whack_a_mole.c:41:6:clear_mole	1
+../Core/Src/whack_a_mole.c:47:6:draw_score_and_lives	1
+../Core/Src/whack_a_mole.c:67:6:draw_mole_grid_outline	1
+../Core/Src/whack_a_mole.c:76:6:spawn_mole	3
+../Core/Src/whack_a_mole.c:97:6:handle_whack_a_mole_touch	10
+../Core/Src/whack_a_mole.c:119:6:check_mole_timeout	5
+../Core/Src/whack_a_mole.c:134:6:game_over	1
+../Core/Src/whack_a_mole.c:146:6:whack_a_mole_game_loop	1
+../Core/Src/whack_a_mole.c:152:6:reset_game_state	2

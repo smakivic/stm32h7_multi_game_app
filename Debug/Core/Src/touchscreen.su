@@ -1,0 +1,2 @@
+../Core/Src/touchscreen.c:6:6:display_main_screen	16	static
+../Core/Src/touchscreen.c:30:6:handle_main_screen_touch	24	static

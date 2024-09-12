@@ -1,0 +1,6 @@
+../Core/Src/tic_tac_toe.c:11:6:start_tic_tac_toe	3
+../Core/Src/tic_tac_toe.c:30:6:draw_grid	1
+../Core/Src/tic_tac_toe.c:56:6:draw_player_mark	2
+../Core/Src/tic_tac_toe.c:76:6:handle_tic_tac_toe_touch	16
+../Core/Src/tic_tac_toe.c:123:6:check_game_status	18
+../Core/Src/tic_tac_toe.c:159:6:tic_tac_toe_game_over	3

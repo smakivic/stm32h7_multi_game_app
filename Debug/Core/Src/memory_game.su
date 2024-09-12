@@ -1,0 +1,12 @@
+../Core/Src/memory_game.c:41:6:start_memory_game	8	static
+../Core/Src/memory_game.c:52:6:draw_start_button	16	static
+../Core/Src/memory_game.c:59:6:draw_color_squares	32	static
+../Core/Src/memory_game.c:66:6:generate_sequence	24	static
+../Core/Src/memory_game.c:86:6:play_sequence	16	static
+../Core/Src/memory_game.c:100:6:show_message	24	static
+../Core/Src/memory_game.c:113:6:handle_memory_game_touch	32	static
+../Core/Src/memory_game.c:149:6:check_player_input	16	static
+../Core/Src/memory_game.c:166:6:show_game_over	64	static
+../Core/Src/memory_game.c:177:6:reset_memory_game	4	static
+../Core/Src/memory_game.c:184:6:show_color	40	static
+../Core/Src/memory_game.c:207:6:clear_color	40	static
